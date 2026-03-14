@@ -37,6 +37,9 @@ next-env.d.ts
 
 # database
 /db/database.sqlite
+/db/database.sqlite-shm
+/db/database.sqlite-wal
+!/db/.gitkeep
 
 # uploads
 /public/uploads/originals/*
